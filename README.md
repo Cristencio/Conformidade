@@ -27,13 +27,6 @@
 - [24. Comércio Eletrônico.md](./24. Comércio Eletrônico.md)
 - [25. Matriz de Auditoria e Implementação.md](./25. Matriz de Auditoria e Implementação.md)
 
-## Organização
-- Documentos 1–20: áreas principais solicitadas.
-- Documento 21: UI/UX e Design de Interfaces, separado.
-- Documento 22: Segurança no Frontend, separado.
-- Documento 23: Segurança de APIs e Bases de Dados, separado, incluindo requisitos complementares avançados.
-- Documento 24: Comércio Eletrônico, com carrinho opcional e descrição rigorosa dos produtos.
-- Documento 25: Matriz de Auditoria e Implementação.
 
 ## Como utilizar
 1. Tratar cada ficheiro como documento independente.
