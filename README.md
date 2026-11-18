@@ -45,3 +45,4 @@
 ## Nota de integridade
 Esta edição amplia a anterior e mantém documentos especializados separados. Os requisitos foram reconstruídos e normalizados para formar uma colecção coerente; não deve ser interpretada como transcrição literal palavra por palavra de todas as versões anteriores da conversa. A contagem de itens varia por documento e está indicada no próprio ficheiro quando aplicável.
 "# Conformidade" 
+# Conformidade
